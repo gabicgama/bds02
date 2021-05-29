@@ -2,7 +2,7 @@
 
 :zap: Desafio do capítulo 2 do Bootcamp DevSuperior
 
-### :blue_book: Competencias
+### :blue_book: Competências
 
 * TDD - Test Driven Development
 * JUnit
