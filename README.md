@@ -1,8 +1,8 @@
 # Desafio TDD Event-City
 
-:zap: Desafio do capítulo do Bootcamp DevSuperior
+:zap: Desafio do capítulo 2 do Bootcamp DevSuperior
 
-### Competencias
+### :blue_book: Competencias
 
 * TDD - Test Driven Development
 * JUnit
